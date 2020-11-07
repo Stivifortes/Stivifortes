@@ -1,8 +1,6 @@
 
-## I am Stiven Fortes! ✨ A Technology Lover and Informatic Engineering Student.
+##Stiven Fortes! ✨ A Technology Lover and Informatic Engineering Student.
 
-
-<img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
 
 ## What I've been Doing?
 - 🔭 I’m currently working on UniMindelo as a Student!
