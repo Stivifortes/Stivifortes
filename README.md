@@ -10,7 +10,7 @@
 - ⚡ Fun fact: I Dont Drink Coffe!
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stivifortes)](https://github.com/Stivifortes/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stivifortes)](https://github.com/Stivifortes/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stivifortes&layout=compact)](https://github.com/Stivifortes/github-readme-stats)
 
 ## Contact
 - [![Linkedin Badge](https://img.shields.io/badge/-StivenFortes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stivenfortes96/)](https://www.linkedin.com/in/stivenfortes96/)
