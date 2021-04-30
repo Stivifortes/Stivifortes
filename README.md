@@ -10,10 +10,10 @@
 - ⚡ Fun fact: I Dont Drink Coffe!
 
 ## Stats on Github
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?stivifortes=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Stivifortes96=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?stivifortes=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Stivifortes=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contact
 - [![Linkedin Badge](https://img.shields.io/badge/-StivenFortes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stivenfortes96/)](https://www.linkedin.com/in/stivenfortes96/)
