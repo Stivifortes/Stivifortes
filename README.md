@@ -9,10 +9,7 @@
 - 😄 Pronouns: Strained, Motivated, willing to learn.
 - ⚡ Fun fact: I Dont Drink Coffe!
 
-## Stats on Github
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stivifortes)](https://github.com/Stivifortes/github-readme-stats)
-
-## Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stivifortes)](https://github.com/Stivifortes/github-readme-stats)
 
 ## Contact
